@@ -1,0 +1,606 @@
+2026-08-16 19:20:05.857: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 19:20:05.857: [INFO] Profiles total count: 1
+2026-08-16 19:20:05.857: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=null
+2026-08-16 19:20:05.857: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 19:20:05.857: [INFO] OnDoneLoading sync enabled: 0
+2026-08-16 19:20:05.857: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-16 19:20:05.857: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-16 19:20:05.857: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 19:20:24.385: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 19:22:48.398: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 19:22:48.398: [INFO] Profiles total count: 1
+2026-08-16 19:22:48.400: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T19:20:06.178Z
+2026-08-16 19:22:48.400: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 19:22:48.400: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T19:20:06.178Z
+2026-08-16 19:22:48.400: [INFO] OnDoneLoading sync enabled: 0
+2026-08-16 19:22:48.400: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-16 19:22:48.400: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-16 19:22:48.400: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 19:23:15.323: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 19:24:08.222: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 19:24:08.222: [INFO] Profiles total count: 1
+2026-08-16 19:24:08.222: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T19:23:15.030Z
+2026-08-16 19:24:08.222: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 19:24:08.222: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T19:23:15.030Z
+2026-08-16 19:24:08.222: [INFO] OnDoneLoading sync enabled: 0
+2026-08-16 19:24:08.222: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-16 19:24:08.222: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-16 19:24:08.222: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 19:28:07.825: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 19:28:14.685: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 19:28:14.685: [INFO] Profiles total count: 1
+2026-08-16 19:28:14.685: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T19:24:56.959Z
+2026-08-16 19:28:14.685: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 19:28:14.685: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T19:24:56.959Z
+2026-08-16 19:28:14.685: [INFO] OnDoneLoading sync enabled: 0
+2026-08-16 19:28:14.685: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-16 19:28:14.685: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-16 19:28:14.685: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 19:28:39.609: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 19:33:01.390: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 19:33:01.390: [INFO] Profiles total count: 1
+2026-08-16 19:33:01.393: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T19:28:30.618Z
+2026-08-16 19:33:01.393: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 19:33:01.393: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T19:28:30.618Z
+2026-08-16 19:33:01.393: [INFO] OnDoneLoading sync enabled: 0
+2026-08-16 19:33:01.393: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-16 19:33:01.393: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-16 19:33:01.393: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 19:36:12.605: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 19:37:07.820: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 19:37:07.820: [INFO] Profiles total count: 1
+2026-08-16 19:37:07.821: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T19:33:09.325Z
+2026-08-16 19:37:07.821: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 19:37:07.821: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T19:33:09.325Z
+2026-08-16 19:37:07.821: [INFO] OnDoneLoading sync enabled: 0
+2026-08-16 19:37:07.821: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-16 19:37:07.821: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-16 19:37:07.821: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 20:00:20.015: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 20:00:28.395: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 20:00:28.395: [INFO] Profiles total count: 1
+2026-08-16 20:00:28.396: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T20:00:18.124Z
+2026-08-16 20:00:28.396: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 20:00:28.396: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T20:00:18.124Z
+2026-08-16 20:00:28.396: [INFO] OnDoneLoading sync enabled: 0
+2026-08-16 20:00:28.396: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-16 20:00:28.396: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-16 20:00:28.396: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 20:01:15.241: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 20:01:21.580: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 20:01:21.580: [INFO] Profiles total count: 1
+2026-08-16 20:01:21.581: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T20:01:09.782Z
+2026-08-16 20:01:21.581: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 20:01:21.581: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T20:01:09.782Z
+2026-08-16 20:01:21.581: [INFO] OnDoneLoading sync enabled: 0
+2026-08-16 20:01:21.581: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-16 20:01:21.581: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-16 20:01:21.581: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 20:32:42.923: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 20:32:59.241: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 20:32:59.241: [INFO] Profiles total count: 1
+2026-08-16 20:32:59.244: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T20:32:36.785Z
+2026-08-16 20:32:59.244: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 20:32:59.244: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T20:32:36.785Z
+2026-08-16 20:32:59.244: [INFO] OnDoneLoading sync enabled: 0
+2026-08-16 20:32:59.244: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-16 20:32:59.244: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-16 20:32:59.244: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 22:02:29.117: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-16 22:02:37.627: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 22:02:37.627: [INFO] Profiles total count: 1
+2026-08-16 22:02:37.628: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T22:00:37.373Z
+2026-08-16 22:02:37.628: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-16 22:02:37.628: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-16T22:00:37.373Z
+2026-08-16 22:02:37.628: [INFO] OnDoneLoading sync enabled: 0
+2026-08-16 22:02:37.628: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-16 22:02:37.628: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-16 22:02:37.628: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 13:28:42.120: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 13:28:50.177: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 13:28:50.177: [INFO] Profiles total count: 1
+2026-08-17 13:28:50.178: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T13:26:01.360Z
+2026-08-17 13:28:50.178: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 13:28:50.178: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T13:26:01.360Z
+2026-08-17 13:28:50.178: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 13:28:50.178: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 13:28:50.178: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 13:28:50.178: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 13:35:20.632: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 13:35:29.521: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 13:35:29.521: [INFO] Profiles total count: 1
+2026-08-17 13:35:29.522: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T13:35:20.351Z
+2026-08-17 13:35:29.522: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 13:35:29.522: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T13:35:20.351Z
+2026-08-17 13:35:29.522: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 13:35:29.522: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 13:35:29.522: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 13:35:29.522: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 14:20:19.850: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 14:20:28.762: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 14:20:28.762: [INFO] Profiles total count: 1
+2026-08-17 14:20:28.762: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T14:20:16.690Z
+2026-08-17 14:20:28.762: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 14:20:28.763: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T14:20:16.690Z
+2026-08-17 14:20:28.763: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 14:20:28.763: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 14:20:28.763: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 14:20:28.763: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 14:20:51.510: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 14:20:56.464: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 14:20:56.464: [INFO] Profiles total count: 1
+2026-08-17 14:20:56.465: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T14:20:48.075Z
+2026-08-17 14:20:56.465: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 14:20:56.465: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T14:20:48.075Z
+2026-08-17 14:20:56.465: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 14:20:56.465: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 14:20:56.465: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 14:20:56.465: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 14:21:06.271: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 14:21:11.502: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 14:21:11.502: [INFO] Profiles total count: 1
+2026-08-17 14:21:11.503: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T14:21:02.438Z
+2026-08-17 14:21:11.503: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 14:21:11.503: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T14:21:02.438Z
+2026-08-17 14:21:11.503: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 14:21:11.503: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 14:21:11.503: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 14:21:11.503: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 14:21:30.820: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 14:21:35.863: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 14:21:35.863: [INFO] Profiles total count: 1
+2026-08-17 14:21:35.864: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T14:21:11.680Z
+2026-08-17 14:21:35.864: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 14:21:35.864: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T14:21:11.680Z
+2026-08-17 14:21:35.864: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 14:21:35.864: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 14:21:35.864: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 14:21:35.864: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 14:49:16.852: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 14:49:26.680: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 14:49:26.680: [INFO] Profiles total count: 1
+2026-08-17 14:49:26.684: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T14:49:07.075Z
+2026-08-17 14:49:26.684: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 14:49:26.684: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T14:49:07.075Z
+2026-08-17 14:49:26.684: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 14:49:26.684: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 14:49:26.684: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 14:49:26.684: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 14:49:49.690: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 14:50:22.588: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 14:50:22.588: [INFO] Profiles total count: 1
+2026-08-17 14:50:22.589: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T14:49:26.928Z
+2026-08-17 14:50:22.589: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 14:50:22.589: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T14:49:26.928Z
+2026-08-17 14:50:22.589: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 14:50:22.589: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 14:50:22.589: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 14:50:22.589: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 14:50:36.876: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 14:50:42.284: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 14:50:42.284: [INFO] Profiles total count: 1
+2026-08-17 14:50:42.285: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T14:50:22.751Z
+2026-08-17 14:50:42.285: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 14:50:42.285: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T14:50:22.751Z
+2026-08-17 14:50:42.285: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 14:50:42.285: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 14:50:42.285: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 14:50:42.285: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 15:22:28.730: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-17 15:22:36.592: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 15:22:36.592: [INFO] Profiles total count: 1
+2026-08-17 15:22:36.592: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T15:22:26.616Z
+2026-08-17 15:22:36.592: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-17 15:22:36.593: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-17T15:22:26.616Z
+2026-08-17 15:22:36.593: [INFO] OnDoneLoading sync enabled: 0
+2026-08-17 15:22:36.593: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-17 15:22:36.593: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-17 15:22:36.593: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 13:09:15.981: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 13:09:22.182: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-18 13:09:22.182: [INFO] Profiles total count: 1
+2026-08-18 13:09:22.183: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-18T13:07:58.572Z
+2026-08-18 13:09:22.183: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-18 13:09:22.183: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-18T13:07:58.572Z
+2026-08-18 13:09:22.183: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 13:09:22.183: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 13:09:22.183: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 13:09:22.183: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 13:50:30.512: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 13:50:37.101: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-18 13:50:37.101: [INFO] Profiles total count: 1
+2026-08-18 13:50:37.101: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-18T13:50:20.923Z
+2026-08-18 13:50:37.101: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-18 13:50:37.102: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-18T13:50:20.923Z
+2026-08-18 13:50:37.102: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 13:50:37.102: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 13:50:37.102: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 13:50:37.102: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 15:24:01.944: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 15:24:08.784: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-18 15:24:08.784: [INFO] Profiles total count: 1
+2026-08-18 15:24:08.785: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-18T15:23:58.209Z
+2026-08-18 15:24:08.785: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-18 15:24:08.785: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-18T15:23:58.209Z
+2026-08-18 15:24:08.785: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 15:24:08.785: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 15:24:08.785: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 15:24:08.785: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 15:30:39.503: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-18 15:30:45.956: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-18 15:30:45.956: [INFO] Profiles total count: 1
+2026-08-18 15:30:45.956: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-18T15:30:35.694Z
+2026-08-18 15:30:45.956: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-18 15:30:45.956: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-18T15:30:35.694Z
+2026-08-18 15:30:45.956: [INFO] OnDoneLoading sync enabled: 0
+2026-08-18 15:30:45.956: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-18 15:30:45.956: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-18 15:30:45.956: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 12:32:28.536: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 12:37:34.236: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-19 12:37:34.236: [INFO] Profiles total count: 1
+2026-08-19 12:37:34.238: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-19T12:32:26.983Z
+2026-08-19 12:37:34.238: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-19 12:37:34.238: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-19T12:32:26.983Z
+2026-08-19 12:37:34.238: [INFO] OnDoneLoading sync enabled: 0
+2026-08-19 12:37:34.238: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-19 12:37:34.238: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-19 12:37:34.238: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 14:40:23.751: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-19 14:40:30.461: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-19 14:40:30.461: [INFO] Profiles total count: 1
+2026-08-19 14:40:30.461: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-19T14:40:23.137Z
+2026-08-19 14:40:30.461: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-19 14:40:30.461: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-19T14:40:23.137Z
+2026-08-19 14:40:30.461: [INFO] OnDoneLoading sync enabled: 0
+2026-08-19 14:40:30.461: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-19 14:40:30.461: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-19 14:40:30.461: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 04:36:43.744: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 04:36:43.744: [INFO] Profiles total count: 1
+2026-08-20 04:36:43.819: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T04:36:21.339Z
+2026-08-20 04:36:43.819: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 04:36:43.819: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T04:36:21.339Z
+2026-08-20 04:36:43.820: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 04:36:43.820: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 04:36:43.820: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 04:36:43.820: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 05:10:54.665: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 05:11:02.013: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 05:11:02.013: [INFO] Profiles total count: 1
+2026-08-20 05:11:02.013: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T05:10:25.032Z
+2026-08-20 05:11:02.013: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 05:11:02.013: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T05:10:25.032Z
+2026-08-20 05:11:02.013: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 05:11:02.013: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 05:11:02.013: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 05:11:02.013: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 05:23:04.067: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 05:29:11.315: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 05:29:11.315: [INFO] Profiles total count: 1
+2026-08-20 05:29:11.315: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T05:23:02.030Z
+2026-08-20 05:29:11.315: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 05:29:11.315: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T05:23:02.030Z
+2026-08-20 05:29:11.315: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 05:29:11.315: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 05:29:11.315: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 05:29:11.315: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 05:33:19.121: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 05:33:24.361: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 05:33:24.361: [INFO] Profiles total count: 1
+2026-08-20 05:33:24.361: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T05:33:18.674Z
+2026-08-20 05:33:24.361: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 05:33:24.361: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T05:33:18.674Z
+2026-08-20 05:33:24.361: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 05:33:24.361: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 05:33:24.361: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 05:33:24.361: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 05:47:35.364: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 05:47:42.810: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 05:47:42.810: [INFO] Profiles total count: 1
+2026-08-20 05:47:42.810: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T05:47:34.425Z
+2026-08-20 05:47:42.810: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 05:47:42.810: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T05:47:34.425Z
+2026-08-20 05:47:42.810: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 05:47:42.810: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 05:47:42.810: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 05:47:42.810: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 14:57:53.524: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 14:57:53.524: [INFO] Profiles total count: 1
+2026-08-20 14:57:53.525: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T14:57:24.638Z
+2026-08-20 14:57:53.525: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 14:57:53.525: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T14:57:24.638Z
+2026-08-20 14:57:53.525: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 14:57:53.525: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 14:57:53.525: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 14:57:53.525: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 15:18:54.952: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 15:19:02.363: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 15:19:02.363: [INFO] Profiles total count: 1
+2026-08-20 15:19:02.363: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T15:18:42.058Z
+2026-08-20 15:19:02.363: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 15:19:02.363: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T15:18:42.058Z
+2026-08-20 15:19:02.363: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 15:19:02.363: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 15:19:02.363: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 15:19:02.363: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 15:24:23.679: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 15:24:31.681: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 15:24:31.681: [INFO] Profiles total count: 1
+2026-08-20 15:24:31.681: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T15:24:19.787Z
+2026-08-20 15:24:31.681: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 15:24:31.681: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T15:24:19.787Z
+2026-08-20 15:24:31.681: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 15:24:31.681: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 15:24:31.681: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 15:24:31.681: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 15:26:38.614: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 15:26:44.227: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 15:26:44.227: [INFO] Profiles total count: 1
+2026-08-20 15:26:44.228: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T15:26:36.827Z
+2026-08-20 15:26:44.228: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 15:26:44.228: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T15:26:36.827Z
+2026-08-20 15:26:44.228: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 15:26:44.228: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 15:26:44.228: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 15:26:44.228: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 15:26:50.791: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-20 15:27:15.367: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 15:27:15.367: [INFO] Profiles total count: 1
+2026-08-20 15:27:15.368: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T15:26:44.408Z
+2026-08-20 15:27:15.368: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-20 15:27:15.368: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T15:26:44.408Z
+2026-08-20 15:27:15.368: [INFO] OnDoneLoading sync enabled: 0
+2026-08-20 15:27:15.368: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-20 15:27:15.368: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-20 15:27:15.368: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-21 14:30:46.303: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-21 14:30:58.772: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-21 14:30:58.772: [INFO] Profiles total count: 1
+2026-08-21 14:30:58.775: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T15:29:36.264Z
+2026-08-21 14:30:58.775: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-21 14:30:58.775: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-20T15:29:36.264Z
+2026-08-21 14:30:58.775: [INFO] OnDoneLoading sync enabled: 0
+2026-08-21 14:30:58.775: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-21 14:30:58.775: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-21 14:30:58.775: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-21 15:22:38.144: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-21 15:22:48.186: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-21 15:22:48.186: [INFO] Profiles total count: 1
+2026-08-21 15:22:48.186: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-21T15:22:31.717Z
+2026-08-21 15:22:48.186: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-21 15:22:48.187: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-21T15:22:31.717Z
+2026-08-21 15:22:48.187: [INFO] OnDoneLoading sync enabled: 0
+2026-08-21 15:22:48.187: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-21 15:22:48.187: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-21 15:22:48.187: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 01:55:59.059: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 01:56:16.693: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-26 01:56:16.693: [INFO] Profiles total count: 1
+2026-08-26 01:56:16.693: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-26T01:55:56.090Z
+2026-08-26 01:56:16.693: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-26 01:56:16.693: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-26T01:55:56.090Z
+2026-08-26 01:56:16.693: [INFO] OnDoneLoading sync enabled: 0
+2026-08-26 01:56:16.693: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-26 01:56:16.693: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-26 01:56:16.693: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 02:18:25.038: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 02:18:32.127: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-26 02:18:32.127: [INFO] Profiles total count: 1
+2026-08-26 02:18:32.127: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-26T02:18:24.229Z
+2026-08-26 02:18:32.127: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-26 02:18:32.127: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-26T02:18:24.229Z
+2026-08-26 02:18:32.127: [INFO] OnDoneLoading sync enabled: 0
+2026-08-26 02:18:32.127: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-26 02:18:32.127: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-26 02:18:32.127: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 02:20:02.181: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 02:20:07.324: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-26 02:20:07.324: [INFO] Profiles total count: 1
+2026-08-26 02:20:07.324: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-26T02:20:01.684Z
+2026-08-26 02:20:07.324: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-26 02:20:07.324: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-26T02:20:01.684Z
+2026-08-26 02:20:07.324: [INFO] OnDoneLoading sync enabled: 0
+2026-08-26 02:20:07.324: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-26 02:20:07.324: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-26 02:20:07.324: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 02:26:13.011: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 02:26:18.991: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-26 02:26:18.991: [INFO] Profiles total count: 1
+2026-08-26 02:26:18.991: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-26T02:25:52.776Z
+2026-08-26 02:26:18.991: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-26 02:26:18.991: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-26T02:25:52.776Z
+2026-08-26 02:26:18.991: [INFO] OnDoneLoading sync enabled: 0
+2026-08-26 02:26:18.991: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-26 02:26:18.991: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-26 02:26:18.991: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 04:02:49.078: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-26 04:02:55.325: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-26 04:02:55.325: [INFO] Profiles total count: 1
+2026-08-26 04:02:55.325: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-26T04:02:48.209Z
+2026-08-26 04:02:55.325: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-26 04:02:55.325: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-26T04:02:48.209Z
+2026-08-26 04:02:55.325: [INFO] OnDoneLoading sync enabled: 0
+2026-08-26 04:02:55.325: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-26 04:02:55.325: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-26 04:02:55.325: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 00:07:43.983: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 00:07:50.108: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 00:07:50.108: [INFO] Profiles total count: 1
+2026-08-27 00:07:50.108: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T00:07:35.366Z
+2026-08-27 00:07:50.108: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 00:07:50.108: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T00:07:35.366Z
+2026-08-27 00:07:50.108: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 00:07:50.108: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 00:07:50.108: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 00:07:50.108: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 01:25:38.416: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 01:25:48.898: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 01:25:48.898: [INFO] Profiles total count: 1
+2026-08-27 01:25:48.898: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T01:25:33.699Z
+2026-08-27 01:25:48.898: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 01:25:48.898: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T01:25:33.699Z
+2026-08-27 01:25:48.899: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 01:25:48.899: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 01:25:48.899: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 01:25:48.899: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 02:15:32.882: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 02:15:38.868: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 02:15:38.868: [INFO] Profiles total count: 1
+2026-08-27 02:15:38.869: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T02:15:32.230Z
+2026-08-27 02:15:38.869: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 02:15:38.869: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T02:15:32.230Z
+2026-08-27 02:15:38.869: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 02:15:38.869: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 02:15:38.869: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 02:15:38.869: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 02:48:55.447: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 02:49:52.043: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 02:49:52.043: [INFO] Profiles total count: 1
+2026-08-27 02:49:52.043: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T02:48:54.634Z
+2026-08-27 02:49:52.043: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 02:49:52.043: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T02:48:54.634Z
+2026-08-27 02:49:52.043: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 02:49:52.043: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 02:49:52.043: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 02:49:52.043: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 03:38:50.631: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 03:38:57.517: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 03:38:57.517: [INFO] Profiles total count: 1
+2026-08-27 03:38:57.517: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T03:38:49.792Z
+2026-08-27 03:38:57.517: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 03:38:57.517: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T03:38:49.792Z
+2026-08-27 03:38:57.517: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 03:38:57.517: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 03:38:57.517: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 03:38:57.518: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 04:05:53.410: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 04:05:59.258: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 04:05:59.258: [INFO] Profiles total count: 1
+2026-08-27 04:05:59.258: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T04:05:52.594Z
+2026-08-27 04:05:59.258: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 04:05:59.258: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T04:05:52.594Z
+2026-08-27 04:05:59.258: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 04:05:59.258: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 04:05:59.258: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 04:05:59.258: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 04:16:48.753: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 04:16:54.225: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 04:16:54.225: [INFO] Profiles total count: 1
+2026-08-27 04:16:54.225: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T04:14:51.834Z
+2026-08-27 04:16:54.225: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 04:16:54.225: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T04:14:51.834Z
+2026-08-27 04:16:54.225: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 04:16:54.225: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 04:16:54.225: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 04:16:54.226: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 04:23:29.727: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 04:23:36.936: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 04:23:36.936: [INFO] Profiles total count: 1
+2026-08-27 04:23:36.936: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T04:22:52.639Z
+2026-08-27 04:23:36.936: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 04:23:36.936: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T04:22:52.639Z
+2026-08-27 04:23:36.936: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 04:23:36.936: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 04:23:36.936: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 04:23:36.936: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 04:23:59.537: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:44:37.810: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 11:44:37.810: [INFO] Profiles total count: 1
+2026-08-27 11:44:37.811: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T04:23:37.096Z
+2026-08-27 11:44:37.811: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 11:44:37.811: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T04:23:37.096Z
+2026-08-27 11:44:37.811: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 11:44:37.811: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 11:44:37.811: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 11:44:37.811: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:52:59.619: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 11:53:09.441: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 11:53:09.441: [INFO] Profiles total count: 1
+2026-08-27 11:53:09.442: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T11:52:50.473Z
+2026-08-27 11:53:09.442: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 11:53:09.442: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T11:52:50.473Z
+2026-08-27 11:53:09.442: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 11:53:09.442: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 11:53:09.442: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 11:53:09.442: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 12:00:05.557: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 12:00:13.492: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 12:00:13.492: [INFO] Profiles total count: 1
+2026-08-27 12:00:13.492: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T12:00:05.223Z
+2026-08-27 12:00:13.493: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 12:00:13.493: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T12:00:05.223Z
+2026-08-27 12:00:13.493: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 12:00:13.493: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 12:00:13.493: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 12:00:13.493: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 12:19:47.403: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 12:20:03.690: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 12:20:03.690: [INFO] Profiles total count: 1
+2026-08-27 12:20:03.690: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T12:19:45.446Z
+2026-08-27 12:20:03.690: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 12:20:03.690: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T12:19:45.446Z
+2026-08-27 12:20:03.691: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 12:20:03.691: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 12:20:03.691: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 12:20:03.691: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 13:04:36.554: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 13:04:45.929: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 13:04:45.929: [INFO] Profiles total count: 1
+2026-08-27 13:04:45.929: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T13:04:36.060Z
+2026-08-27 13:04:45.929: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 13:04:45.929: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T13:04:36.060Z
+2026-08-27 13:04:45.929: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 13:04:45.929: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 13:04:45.929: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 13:04:45.929: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 13:11:58.122: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 13:12:05.689: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 13:12:05.689: [INFO] Profiles total count: 1
+2026-08-27 13:12:05.689: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T13:11:33.976Z
+2026-08-27 13:12:05.689: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 13:12:05.689: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T13:11:33.976Z
+2026-08-27 13:12:05.689: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 13:12:05.689: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 13:12:05.689: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 13:12:05.689: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 13:22:00.731: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 13:22:10.414: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 13:22:10.414: [INFO] Profiles total count: 1
+2026-08-27 13:22:10.414: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T13:20:50.578Z
+2026-08-27 13:22:10.414: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 13:22:10.414: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T13:20:50.578Z
+2026-08-27 13:22:10.414: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 13:22:10.414: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 13:22:10.414: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 13:22:10.414: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 13:29:52.048: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 13:30:00.196: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 13:30:00.196: [INFO] Profiles total count: 1
+2026-08-27 13:30:00.197: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T13:29:50.863Z
+2026-08-27 13:30:00.197: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 13:30:00.197: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T13:29:50.863Z
+2026-08-27 13:30:00.197: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 13:30:00.197: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 13:30:00.197: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 13:30:00.197: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 15:06:46.753: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 15:06:46.753: [INFO] Profiles total count: 1
+2026-08-27 15:06:46.753: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T15:06:24.318Z
+2026-08-27 15:06:46.753: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 15:06:46.753: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T15:06:24.318Z
+2026-08-27 15:06:46.753: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 15:06:46.753: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 15:06:46.753: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 15:06:46.753: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 15:21:47.398: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-27 15:21:54.555: [INFO] CurrentProfilePath: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 15:21:54.555: [INFO] Profiles total count: 1
+2026-08-27 15:21:54.556: [INFO] Profile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T15:21:46.842Z
+2026-08-27 15:21:54.556: [INFO] LastUsedProfileDir: C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default
+2026-08-27 15:21:54.556: [INFO] MostRecentlyActiveProfile: name=Perfil 1 path=C:\Users\irong\Documents\Projetos\dbs-studio\apps\Dcode\desktop\DCode.Host\bin\Debug\net10.0-windows\DCode.Host.exe.WebView2\EBWebView\Default lastActive=2026-08-27T15:21:46.842Z
+2026-08-27 15:21:54.556: [INFO] OnDoneLoading sync enabled: 0
+2026-08-27 15:21:54.556: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-08-27 15:21:54.556: [INFO] BookmarksLoadDropped droppedNodes=0
+2026-08-27 15:21:54.556: [INFO] BookmarksSnapshot Startup total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1
+2026-08-30 19:19:50.166: [INFO] BookmarksSnapshot Shutdown total=0 bar=0 other=0 mobile=0 showBar=0 showBarNTP=1

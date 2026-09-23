@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FniZYDAqV9I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irong\\Documents\\Projetos\\dbs-studio\\apps\\Dcode\\desktop\\DCode.Host\\DCode.Host.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irong\\.nuget\\packages\\microsoft.web.webview2\\1.0.4129.50\\microsoft.web.webview2.1.0.4129.50.nupkg.sha512"
+  ],
+  "logs": []
+}

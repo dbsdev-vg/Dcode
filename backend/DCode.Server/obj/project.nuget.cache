@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "hCrLNqapc3c=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\irong\\Documents\\Projetos\\dbs-studio\\apps\\Dcode\\backend\\DCode.Server\\DCode.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\irong\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\irong\\.nuget\\packages\\microsoft.data.sqlite\\10.0.11\\microsoft.data.sqlite.10.0.11.nupkg.sha512",
+    "C:\\Users\\irong\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.11\\microsoft.data.sqlite.core.10.0.11.nupkg.sha512",
+    "C:\\Users\\irong\\.nuget\\packages\\microsoft.playwright\\1.62.0\\microsoft.playwright.1.62.0.nupkg.sha512",
+    "C:\\Users\\irong\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.12\\sqlitepclraw.bundle_e_sqlite3.2.1.12.nupkg.sha512",
+    "C:\\Users\\irong\\.nuget\\packages\\sqlitepclraw.core\\2.1.12\\sqlitepclraw.core.2.1.12.nupkg.sha512",
+    "C:\\Users\\irong\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.12\\sqlitepclraw.lib.e_sqlite3.2.1.12.nupkg.sha512",
+    "C:\\Users\\irong\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.12\\sqlitepclraw.provider.e_sqlite3.2.1.12.nupkg.sha512",
+    "C:\\Users\\irong\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
